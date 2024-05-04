@@ -123,8 +123,10 @@ max-width: 2000px;
   color: #fcfbfb;
   position: relative;
   height: 5vh;
-  left: 1%;
+  left: -1.99%;
   width: 20%;
+  font-weight: 800;
+  font-size: 20px;
 }
 /* --------fetures--------------- */
 
